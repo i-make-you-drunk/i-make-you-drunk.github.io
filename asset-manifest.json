@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.e59530f9.js",
+    "static/js/787.ec1222c0.chunk.js": "./static/js/787.ec1222c0.chunk.js",
+    "static/media/imyd_beer.svg": "./static/media/imyd_beer.83aa679cdff45f7369368e182b11cc62.svg",
+    "static/media/imyd_liqueur.svg": "./static/media/imyd_liqueur.5774f8283f32b75e138850275fbb1a53.svg",
+    "static/media/imyd_wine.svg": "./static/media/imyd_wine.e403479fc49e97480b072e29380a32f3.svg",
+    "static/media/imyd_spirit.svg": "./static/media/imyd_spirit.cc0cd9ee78618c962c0567d9ce88e9e2.svg",
+    "index.html": "./index.html",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.e59530f9.js.map": "./static/js/main.e59530f9.js.map",
+    "787.ec1222c0.chunk.js.map": "./static/js/787.ec1222c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e59530f9.js"
+  ]
+}

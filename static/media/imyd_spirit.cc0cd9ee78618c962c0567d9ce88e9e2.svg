@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="220" height="74" viewBox="0 0 220 74" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.6</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 109.97 37.28)"  >
+<g style=""   >
+		<g transform="matrix(1 0 0 1 -0.28 -0.07)" id="Layer_1"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(195,218,226); fill-rule: nonzero; opacity: 1;"  points="0,-36.5 -27.55,-36.5 -22.45,36.5 0,36.5 22.45,36.5 27.55,-36.5 " />
+</g>
+		<g transform="matrix(1 0 0 1 -0.19 15.02)" id="Layer_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(105,73,41); fill-rule: nonzero; opacity: 0.1;"  transform=" translate(-297.45, -435.97)" d="M 318.61 419.56 l -3.15 32.81 h -35.14 l -4.03 -32.63 c 2.23 12.15 10.44 20.91 21.06 20.91 C 307.81 440.66 316.17 431.45 318.61 419.56 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -0.19 -1.57)" id="Layer_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.39;"  transform=" translate(-297.45, -419.37)" d="M 318.42 402.37 l -0.23 5.03 l -0.83 8.97 c -2.24 11.25 -10.12 20 -20 20 c -10.37 0 -18.29 -8.89 -20 -21 l -0.52 -5.95 l -0.36 -7.05 H 318.42 z" stroke-linecap="round" />
+</g>
+		<g transform="matrix(1 0 0 1 -15.78 -26.91)" id="Layer_1"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.34;"  transform=" translate(-281.86, -394.03)" d="M 288.36 387.37 h -13 l 0.93 13.32 c 0 0 -0.93 -11.32 2.07 -11.32 C 281.36 388.37 288.36 387.37 288.36 387.37 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
